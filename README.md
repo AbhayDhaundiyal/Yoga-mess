@@ -13,3 +13,6 @@ This endpoint takes users Name, Email, Date of birth(DD/MM/YYYY), Password and r
 ## PATCH : form/userRenew/:
 
 This endpoint takes users Email, Batch as data and returns users updaed details as JSON with 200 status else returns 500 for any internal server error.
+
+
+<a href="https://6398e36aa4ac1300085a522c--rococo-rabanadas-78178f.netlify.app/login">site</a>
